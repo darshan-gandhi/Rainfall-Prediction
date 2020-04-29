@@ -1,5 +1,5 @@
 # Rainfall-Prediction
-Predicting rainfall using time series algorithm and arima model
+Predicting rainfall using time series algorithm and arima model.
 
 # Predicted the rainfall in the state of Bihar in month of May.
 
